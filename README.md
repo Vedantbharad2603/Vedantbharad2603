@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Bharad</h1>
-<h3 align="center">A passionate B.Tech ICT student with a keen interest in web and mobile app development. Currently in the 6th semester at Rajkot, I have completed internship focusing on the .NET framework. I am enthusiastic about leveraging my skills to create innovative and user-friendly applications.</h3>
+<h3 align="center">A passionate B.Tech ICT student with a keen interest in web and mobile app development. Currently in the 7th semester at Rajkot, I have completed internship focusing on the .NET framework. I am enthusiastic about leveraging my skills to create innovative and user-friendly applications.</h3>
 
 - 📫 How to reach me **vedantbharad@gmail.com** / **info@vedantbharad.com**
 
