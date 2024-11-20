@@ -30,20 +30,12 @@
 ## My Pinned Repositories: 
 
 <div>
-    <a href="https://github.com/Vedantbharad2603/Smart-Classmate-App">
-        <img style="margin: 10px;" align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=Vedantbharad2603&repo=Smart-Classmate-App&theme=dark" />
-    </a>
-    <a href="https://github.com/Vedantbharad2603/Smart-Classmate-App">
+    <a href="https://github.com/Vedantbharad2603/FindMyBus">
         <img style="margin: 10px;" align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=Vedantbharad2603&repo=FindMyBus&theme=dark" />
     </a>
-    <a href="https://github.com/Vedantbharad2603/Smart-Classmate-App">
+    <a href="https://github.com/Vedantbharad2603/Seating-Arrangement-System">
         <img style="margin: 10px;" align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=Vedantbharad2603&repo=Seating-Arrangement-System&theme=dark" />
     </a>
-  <a href="https://github.com/Vedantbharad2603/Smart-Classmate-App">
-        <img style="margin: 10px;" align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=Vedantbharad2603&repo=smart-classmate-web&theme=dark" />
-    </a>
-    
-   
 </div>
 
 
